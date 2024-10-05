@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    height: 400px;
+    width: 500px;
+    border: white solid 2px;
+    margin: auto;
+    border-radius: 20px;
+}
+.img1{
+    height: 70%;
+    width: 500px;
+    background-image: url(img1.JPG);
+    border-radius: 25px;
+    background-size: 100% 100%;
+}
+.img2{
+    height: 60px;
+    width: 60px;
+    margin-top: 8px;
+    margin-left: 8px;
+}
+.intro{
+    margin-top: -55px;
+    margin-left: 70px;
+    font-size: large;
+    font-weight: bolder;
+    margin-bottom: 8px;
+}
+.tag{
+    margin-left: 70px;
+    color: grey;
+}
+.tag1{
+    margin-left: 70px;
+    color: grey;
+}
